@@ -17,3 +17,8 @@ while True:
 		i = chars[chars.index(i)-steps]
 		decresult.append(i)
 	print('After decryption:',''.join(decresult))
+
+	print('--------------------------')
+
+	encresult = []
+	decresult = []
