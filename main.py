@@ -4,19 +4,16 @@ steps = 2
 encresult = []
 decresult = []
 
-#encryption
-text = list(input('Enter a text to encrypt: '))
-for i in text:
-	i = chars[chars.index(i)+steps]
-	encresult.append(i)
-print("After encryption:",''.join(encresult))
+while True:
+	#encryption
+	text = list(input('Enter a text to encrypt: '))
+	for i in text:
+		i = chars[chars.index(i)+steps]
+		encresult.append(i)
+	print("After encryption:",''.join(encresult))
 
-#decryption
-for i in encresult:
-	i = chars[chars.index(i)-steps]
-	decresult.append(i)
-print('After decryption:',''.join(decresult))
-
-
-
-input('')
+	#decryption
+	for i in encresult:
+		i = chars[chars.index(i)-steps]
+		decresult.append(i)
+	print('After decryption:',''.join(decresult))
