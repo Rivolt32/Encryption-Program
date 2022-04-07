@@ -5,7 +5,7 @@ Don't encrypt this characters: | \\
 
 
 
-To Do :
+### To Do :
 
 Add french characters like : à 
 
@@ -19,6 +19,6 @@ Save informations in a text file
 
 *****************
 
-Done:
+### Done:
 
 Ask the user what he whichs to do: Encrypt or decrypt
