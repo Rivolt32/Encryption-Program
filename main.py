@@ -1,4 +1,4 @@
-#functions
+#functions def
 def encrypt():
 	print("-------------------------------")
 	text = input(' Enter a text to encrypt:\n')
