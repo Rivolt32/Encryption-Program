@@ -49,3 +49,4 @@ while True:
 
 	encresult = []
 	decresult = []
+	
