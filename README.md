@@ -17,7 +17,7 @@ Save informations in a text file
 
 
 
-*******************************
+****
 
 ### Done:
 
