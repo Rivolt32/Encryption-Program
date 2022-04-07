@@ -17,8 +17,8 @@ def decrypt():
 	if text == "exit":
 		return 0
 	for i in text:
-			i = chars[chars.index(i)-steps]
-			decresult.append(i)
+		i = chars[chars.index(i)-steps]
+		decresult.append(i)
 	print('Your decrypted text:\n',''.join(decresult))
 	print('-------------------------------\n \n \n')
 	
