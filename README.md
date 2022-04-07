@@ -8,6 +8,6 @@ Create 2 functions:
     One for encrypting the text 
     One for decrypting the text
 
-Ask the user what he whichs to do: Encrypt or decrypt
+Ask the user what he whichs to do: Encrypt or decrypt - Done
 
 Save informations in a text file
