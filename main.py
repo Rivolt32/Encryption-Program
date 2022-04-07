@@ -14,7 +14,7 @@ while True:
 	print("   |1| Encrypt a text")
 	print("   |2| Decrypt a text")
 	print("   |0| Leave the program")
-	task = input(" ")
+	task = input("teeesttt ")
 	
 	#encryption
 	if task == "1":
