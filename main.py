@@ -7,7 +7,7 @@ def encrypt():
 	for i in text:
 		i = chars[chars.index(i)+steps]
 		encresult.append(i)
-	print("Your encrypted text:\n",''.join(encresult))
+	print("\nYour encrypted text:\n",''.join(encresult))
 	print('-------------------------------\n \n \n')
 
 
@@ -19,7 +19,7 @@ def decrypt():
 	for i in text:
 		i = chars[chars.index(i)-steps]
 		decresult.append(i)
-	print('Your decrypted text:\n',''.join(decresult))
+	print('\nYour decrypted text:\n',''.join(decresult))
 	print('-------------------------------\n \n \n')
 	
 #end of functions def
