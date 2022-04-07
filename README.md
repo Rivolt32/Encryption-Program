@@ -16,6 +16,8 @@ Add french characters like : à
 
 - Save informations in a text file
 
+- Create an infinit key generator by randomizing the order of the characters in the key
+
 
 ## Done:
 
