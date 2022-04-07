@@ -8,11 +8,7 @@ Don't encrypt this characters: \ |
 
 ## To Do :
 
-Add french characters like : à 
-
-- Create 2 functions:
-    - One for encrypting the text 
-    - One for decrypting the text
+- Add french characters like : à 
 
 - Save informations in a text file
 
@@ -22,3 +18,7 @@ Add french characters like : à
 ## Done:
 
 Ask the user what he whichs to do: Encrypt or decrypt
+
+- Create 2 functions:
+    - One for encrypting the text 
+    - One for decrypting the text
