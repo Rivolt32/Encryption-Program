@@ -1,25 +1,22 @@
 # Encryption Program
  Simple text encryption program to train my python skills
 
-Don't encrypt this characters: | \\
+Don't encrypt this characters: \ |
+
+---
 
 
-
-### To Do :
+## To Do :
 
 Add french characters like : à 
 
-Create 2 functions:
-    One for encrypting the text 
-    One for decrypting the text
+- Create 2 functions:
+    - One for encrypting the text 
+    - One for decrypting the text
 
-Save informations in a text file
+- Save informations in a text file
 
-test
--
 
-****
-
-### Done:
+## Done:
 
 Ask the user what he whichs to do: Encrypt or decrypt
