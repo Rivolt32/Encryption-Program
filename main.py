@@ -25,7 +25,7 @@ def decrypt():
 #end of functions def
 
 
-chars = "cZ08^<qhwstuR,-defgzxBEOPnijklmrop%(+HIY:}~QNTUv>?6=yb!\"#$SFXAM1./2;GLJK CDVaW4&'3)*5@[7`{_9]|\\"
+chars = "cZà08^<qhùwstuR,-defgïâzxBEOPnüijklçmropû%(è+HIY:}~QNîTUvì>?6=êyb!\"#$SFXAM1ë./2;GLJK CDéVaòW4&'3)*5@[ô7`{_9]|\\"
 steps = 2
 encresult = []
 decresult = []
