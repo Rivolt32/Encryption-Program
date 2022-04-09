@@ -1,7 +1,7 @@
 # Encryption Program
 Simple text encryption program to train my python skills
 
-Don't encrypt this characters: \ |
+Don't encrypt this characters: \ 
 
 ---
 
