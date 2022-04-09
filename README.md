@@ -16,8 +16,7 @@ The possibility to create multiple key, to store them, and give each one a name.
 
 - Save informations in a txt file
 
-- Create an infinit key generator by randomizing the order of the characters in the key
-    - A separate py program to create new keys and store them in a txt file
+
 
 
 ## Done:
@@ -29,3 +28,6 @@ Ask the user what he whichs to do: Encrypt or decrypt
     - One for decrypting the text
 
 - Add french characters
+
+- Create an infinit key generator by randomizing the order of the characters in the key
+    - A separate py program to create new keys and store them in a txt file
