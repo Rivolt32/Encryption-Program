@@ -7,12 +7,15 @@ Don't encrypt this characters: \
 
 ## Notes:
 
+How can someone try to hack a key? Can brut force be enough? If yes, how much time would it take?
+
+use the ra
 
 
 
 ## To Do:
 
-- Save informations in a txt file
+- Ability to use the generated keys in the main.py file
 
 
 
