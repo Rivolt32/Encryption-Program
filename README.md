@@ -17,6 +17,11 @@ use the ra
 
 - Ability to use the generated keys in the main.py file
 
+- Modify the keygen file so the keys are saved in a csv format, so the user can access them from the main.py file
+
+
+- Make the main.py file read the keys existing in the keys.txt file and make the user choose the key to be used
+
 
 
 ## Done:
