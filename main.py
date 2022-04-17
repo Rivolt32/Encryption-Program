@@ -31,7 +31,7 @@ encresult = []
 decresult = []
 
 print("---------------------------------------------------")
-print("| Encryption / Decryption | 07/04/2022 | Rivolt32 |")
+print("| Encryption / Decryption | 10/04/2022 | Rivolt32 |")
 print("---------------------------------------------------")
 print("|           Type 'exit' anytime to leave          |")
 print("---------------------------------------------------\n")
